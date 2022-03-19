@@ -7,6 +7,8 @@
 <p> vagrant global-status: varifica o status de todas as maquinas ja criadas</p>
 <p> vagrant halt: desliga a maquina atual</p>
 <p> vagrant up: inicializa a maquina</p>
+<p> vagrant ssh-config: lista as configurações ssh </p>
+
 
 
 # ------- ESTUDOS DOCKER -------------

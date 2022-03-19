@@ -2,11 +2,11 @@
 
 # ------- Estudo Vagrant -------------
 
-vagrant init <box>: inicializa uma arquivo de configuração 
-vagrant status: verifica o status da maquina atual
-vagrant global-status: varifica o status de todas as maquinas ja criadas
-vagrant halt: desliga a maquina atual
-vagrant up: inicializa a maquina
+<p> vagrant init <box>: inicializa uma arquivo de configuração </p> 
+<p> vagrant status: verifica o status da maquina atual</p>
+<p> vagrant global-status: varifica o status de todas as maquinas ja criadas</p>
+<p> vagrant halt: desliga a maquina atual</p>
+<p> vagrant up: inicializa a maquina</p>
 
 
 # ------- ESTUDOS DOCKER -------------
